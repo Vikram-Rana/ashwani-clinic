@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ashwani-clinic/static/css/main.3cd30d2e.css",
-    "main.js": "/ashwani-clinic/static/js/main.1e6f4d3b.js",
+    "main.js": "/ashwani-clinic/static/js/main.79e35d7a.js",
     "static/js/453.fd2f0c4a.chunk.js": "/ashwani-clinic/static/js/453.fd2f0c4a.chunk.js",
     "static/media/hero-bg.png": "/ashwani-clinic/static/media/hero-bg.909736d1be06446d91ee.png",
     "index.html": "/ashwani-clinic/index.html",
     "main.3cd30d2e.css.map": "/ashwani-clinic/static/css/main.3cd30d2e.css.map",
-    "main.1e6f4d3b.js.map": "/ashwani-clinic/static/js/main.1e6f4d3b.js.map",
+    "main.79e35d7a.js.map": "/ashwani-clinic/static/js/main.79e35d7a.js.map",
     "453.fd2f0c4a.chunk.js.map": "/ashwani-clinic/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd30d2e.css",
-    "static/js/main.1e6f4d3b.js"
+    "static/js/main.79e35d7a.js"
   ]
 }
