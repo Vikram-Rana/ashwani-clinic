@@ -6,14 +6,14 @@ import "swiper/css/navigation";
 
 function Achievements() {
 const awards = [
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
-"/images/1.jpg",
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/1.jpg`,
 ];
 
 return ( <section className="achievements-section" id="achievements">
@@ -196,7 +196,7 @@ return ( <section className="achievements-section" id="achievements">
 
 
     </div>
-    
+
   </div>
 
 </section>

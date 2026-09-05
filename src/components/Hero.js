@@ -65,11 +65,11 @@ function Hero() {
 
         {/* Doctor Image */}
         <div className="hero-doctor">
-          <img
-            src="/images/doctor.png"
-            alt="Dr. Ashwani Rana"
-            className="doctor-image"
-          />
+          <img 
+          src={`${process.env.PUBLIC_URL}/images/doctor.png`} 
+          alt="Dr. Ashwani Rana"
+          className="doctor-image"
+        />
         </div>
 
       </div>

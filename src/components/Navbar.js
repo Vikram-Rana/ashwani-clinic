@@ -3,10 +3,10 @@ return ( <nav className="navbar"> <div className="nav-container">
 
     <div className="logo">
       <span className="logo-icon">
-        <img
-          src="/images/logo.png"
-          alt="Dr. Ashwani Rana"
-          className="logo-img"
+        <img 
+        src={`${process.env.PUBLIC_URL}/images/logo.png`} 
+        alt="Dr. Ashwani Rana" 
+        className="logo-img" 
         />
       </span>
 
