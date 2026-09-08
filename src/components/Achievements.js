@@ -7,13 +7,25 @@ import "swiper/css/navigation";
 function Achievements() {
 const awards = [
   `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
-  `${process.env.PUBLIC_URL}/images/1.jpg`,
+  `${process.env.PUBLIC_URL}/images/2.jpg`,
+  `${process.env.PUBLIC_URL}/images/3.jpg`,
+  `${process.env.PUBLIC_URL}/images/4.jpg`,
+  `${process.env.PUBLIC_URL}/images/5.jpg`,
+  `${process.env.PUBLIC_URL}/images/6.jpg`,
+  `${process.env.PUBLIC_URL}/images/7.jpg`,
+  `${process.env.PUBLIC_URL}/images/8.jpg`,
+  `${process.env.PUBLIC_URL}/images/9.jpg`,
+  `${process.env.PUBLIC_URL}/images/10.jpg`,
+  `${process.env.PUBLIC_URL}/images/11.jpg`,
+  `${process.env.PUBLIC_URL}/images/12.jpg`,
+  `${process.env.PUBLIC_URL}/images/13.jpg`,
+  `${process.env.PUBLIC_URL}/images/14.jpg`,
+  `${process.env.PUBLIC_URL}/images/15.jpg`,
+  `${process.env.PUBLIC_URL}/images/16.jpg`,
+  `${process.env.PUBLIC_URL}/images/17.jpg`,
+  `${process.env.PUBLIC_URL}/images/18.jpg`,
+  `${process.env.PUBLIC_URL}/images/19.jpg`,
+  `${process.env.PUBLIC_URL}/images/20.jpg`,
 ];
 
 return ( <section className="achievements-section" id="achievements">
@@ -175,7 +187,7 @@ return ( <section className="achievements-section" id="achievements">
 
         breakpoints={{
           769: {
-            slidesPerView: 5,
+            slidesPerView: 4,
             slidesPerGroup: 1,
             spaceBetween: 20,
           },
